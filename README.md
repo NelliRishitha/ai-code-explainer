@@ -12,10 +12,8 @@ AI Code Explainer & Learning Assistant is a web-based application that helps use
 - Practice suggestions for improving coding skills  
 
 ## Tech Stack
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Node.js / Express (if used)  
+- Frontend: HTML, CSS, JavaScript 
 - AI Integration: OpenAI API / other LLM APIs  
-- Visualization Libraries: Recharts, Framer Motion (if used)  
 
 ## Installation
 
