@@ -28,9 +28,12 @@ AI Integration:
 ## Installation
 
 ### Clone the repository
+
 ```bash
 git clone https://github.com/NelliRishitha/ai-code-explainer.git
 cd ai-code-explainer
+```
+
 ### Install dependencies
 
 ```bash
@@ -51,6 +54,4 @@ VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
 ```bash
 npm run dev
 ```
-
----
 
